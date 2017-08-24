@@ -1,10 +1,10 @@
-# Bootstrap 4 Starter Pack (ALPHA 4.0.0-6)
+Dev Kit for Bootstrap4-Beta
 
-Includes complete Bootstrap 4.0.0-alpha6 dev environment with gulp and sass
+Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
 
 ### Version
 
-1.0.0
+1.1
 
 ## Install Dependencies
 
@@ -18,4 +18,4 @@ npm install
 npm start
 ```
 
-Files are compiled into /src
+Files are compiled into /src compiled into /src
